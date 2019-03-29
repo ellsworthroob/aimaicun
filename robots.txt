@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eijeithan.stratosphere.eu/sitemap.xml
